@@ -170,3 +170,4 @@ function countDown(duration, count) {
 // countDown();
 
 console.log("Test");
+console.log("Test 2 ");
